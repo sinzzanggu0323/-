@@ -36,4 +36,4 @@ async def on_message(message):
         await message.channel.send (embed=embed)
 
 # 봇을 실행시키기 위한 토큰을 작성해주는 곳
-client.run('MTIwODI1MDc0NjQ2NzAwMDQxMA.G7T_Kv.WHR6Ksbj7G2NDA0PeE1vo_dK698rITRGWjkldk')
+client.run('MTIwODI1MDc0NjQ2NzAwMDQxMA.GIM7wo.omsviSprDezasy3ZcszdMiGktgC9VsmVDLU-iM')
